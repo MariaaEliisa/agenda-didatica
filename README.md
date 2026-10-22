@@ -86,7 +86,7 @@ Ao salvar, o formulário valida os dados e chama o serviço. O Axios envia um PO
 
 Endpoint-base:
 
-`https://6ada42d47512f497b3ffc8e7.mockapi.io/:endpoint`
+`https:// 6ada5c6d7512f497b3ffdbdc .mockapi.io / :endpoint`
 
 Recurso utilizado: `/dados`.
 
